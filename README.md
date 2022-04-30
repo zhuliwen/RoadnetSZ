@@ -1,6 +1,6 @@
 # RoadnetSZ: Road networks and traffic flows in Shenzhen
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zhuliwen/PKU_Traffic_Lights) ![issues](https://img.shields.io/github/issues/zhuliwen/PKU_Traffic_Lights)
+![GitHub last commit](https://img.shields.io/github/last-commit/zhuliwen/RoadnetSZ) ![issues](https://img.shields.io/github/issues/zhuliwen/RoadnetSZ)
 
 In this repository, we release the **Shenzhen** dataset and code for multi-agent traffic signal control.
 
@@ -9,7 +9,7 @@ In this repository, we release the **Shenzhen** dataset and code for multi-agent
 
 ## Table of contents
 
-- [PKU Traffic Lights](#pku-traffic-lights)
+- [RoadnetSZ](#RoadnetSZ)
 	- [Table of contents](#table-of-contents)
 	- [Open Datasets](#open-datasets)
 	- [Code list](#code-list)
