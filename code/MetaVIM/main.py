@@ -725,11 +725,11 @@ class MetaLearner:
 
 def main():
 
-    city_and_configuration = "hanghzou_real" # please set the city and configuration you want!
+    city_and_configuration = "hangzhou_real" # please set the city and configuration you want!
 
-    if city_and_configuration == "hanghzou_real":
+    if city_and_configuration == "hangzhou_real":
         args = args_cityflow_vae.get_args_4_4_raw()
-    elif city_and_configuration == "hanghzou_mixed_low":
+    elif city_and_configuration == "hangzhou_mixed_low":
         args = args_cityflow_vae.get_args_4_4_2570()
     elif city_and_configuration == "hangzhou_mixed_high":
         args = args_cityflow_vae.get_args_4_4_4770()
