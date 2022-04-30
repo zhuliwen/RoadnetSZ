@@ -40,6 +40,14 @@ In this repository, we release the **Shenzhen** dataset and code for multi-agent
 If you use Shenzhen Dataset in your work, please cite it as follows:
 
 ```
+@misc{RoadnetSZ,
+	title = {RoadnetSZ},
+	author = {Bingyu, Xu and Liwen, Zhu and Yuxuan, Yi and Zongqing, Lu and other contributors},
+	year = {2022},
+	howpublished = {\url{https://github.com/zhuliwen/PKU_Traffic_Lights}},
+	note = {Accessed: 2022-05-01},
+}
+
 @inproceedings{xu2021hierarchically,
   title={Hierarchically and cooperatively learning traffic signal control},
   author={Xu, Bingyu and Wang, Yaowei and Wang, Zhaozhi and Jia, Huizhu and Lu, Zongqing},
