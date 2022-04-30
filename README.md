@@ -1,4 +1,4 @@
-# PKU Traffic Lights
+# RoadnetSZ: Road networks and traffic flows in Shenzhen
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/zhuliwen/PKU_Traffic_Lights) ![issues](https://img.shields.io/github/issues/zhuliwen/PKU_Traffic_Lights)
 
@@ -40,11 +40,27 @@ In this repository, we release the **Shenzhen** dataset and code for multi-agent
 If you use Shenzhen Dataset in your work, please cite it as follows:
 
 ```
-@misc{RoadnetSZ,
-	title = {RoadnetSZ},
-	author = {Bingyu, Xu and Liwen, Zhu and Yuxuan, Yi and Zongqing, Lu and other contributors},
-	year = {2022},
-	howpublished = {\url{https://github.com/zhuliwen/PKU_Traffic_Lights}},
-	note = {Accessed: 2022-05-01},
+@inproceedings{xu2021hierarchically,
+  title={Hierarchically and cooperatively learning traffic signal control},
+  author={Xu, Bingyu and Wang, Yaowei and Wang, Zhaozhi and Jia, Huizhu and Lu, Zongqing},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={1},
+  pages={669--677},
+  year={2021}
+}
+
+@article{zhu2021variationally,
+  title={Variationally and intrinsically motivated reinforcement learning for decentralized traffic signal control},
+  author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Wang, Xiangqian and Tian, Yonghong},
+  journal={arXiv preprint arXiv:2101.00746},
+  year={2021}
+}
+
+@article{yi2021learning,
+  title={Learning to Share in Multi-Agent Reinforcement Learning},
+  author={Yi, Yuxuan and Li, Ge and Wang, Yaowei and Lu, Zongqing},
+  journal={arXiv preprint arXiv:2112.08702},
+  year={2021}
 }
 ```
