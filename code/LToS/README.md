@@ -53,9 +53,9 @@ For training, run:
     
     python3 runexp.py
     
-(a) small_6_6:
+### (a) small_6_6:
 
-It will lead to a 100-round-long iteration (NUM_ROUNDS: number of rounds can be modified) where every round contains one training episode (with network updated) and one testing episode (without network updated). It will run faster on a multi-core server with GPUs. When NUM_ROUNDS=100, gen=4 and cnt=3600, We give one evaluation instance which was run on one PCL server (192.168.202.80) with one Tesla M10 GPU:
+It will lead to a 100-round-long iteration (NUM_ROUNDS: number of rounds can be modified) where every round contains one training episode (with network updated) and one testing episode (without network updated). It will run faster on a multi-core server with GPUs. When NUM_ROUNDS=100, gen=4 and cnt=3600, We give one evaluation instance which was run with one Tesla M10 GPU:
     
     1 whole training round: about 350s
     1 testing round: about 50s
@@ -67,9 +67,9 @@ You can see your efficiency in the folder records/(your instance name)/(anon_you
     254.6277620792389      34.41663098335266      48.11376166343689      63.60378074645996       400.76217126846313
     ...
     
-(b) fuhua_1_33 + 0.4x24hto1h.json:
+### (b) fuhua_1_33 + 0.4x24hto1h.json:
 
-**Roadnet**:<br> [fuhua_cityflow.json](./data_cityflow/fuhua_cityflow.json) <br>**Flow**:<br>[fuhua_real_1775.json](./data_cityflow/fuhua_real_1775.json). (NUM_ROUNDS: number of rounds can be modified) where every round contains one training episode (with network updated) and one testing episode (without network updated). It will run faster on a multi-core server with GPUs. When NUM_ROUNDS=400, gen=1 and cnt=3600, We give one evaluation instance which was run on one PCL server (192.168.202.80) with one Tesla M10 GPU:
+**Roadnet**:<br> [fuhua_cityflow.json](./data_cityflow/fuhua_cityflow.json) <br>**Flow**:<br>[fuhua_real_1775.json](./data_cityflow/fuhua_real_1775.json). (NUM_ROUNDS: number of rounds can be modified) where every round contains one training episode (with network updated) and one testing episode (without network updated). It will run faster on a multi-core server with GPUs. When NUM_ROUNDS=400, gen=1 and cnt=3600, We give one evaluation instance which was run with one Tesla M10 GPU:
     
     1 whole training round: about 80s
     1 testing round: about 45s
