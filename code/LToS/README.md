@@ -5,11 +5,11 @@ This project LToS has been published as the following conference paper in ICLR w
 ```
 @inproceedings{ltos,
   author    = {Yuxuan Yi and
-               Ge Li amd
+               Ge Li and
                Yaowei Wang and
                Zongqing Lu},
   title     = {Learning to Share in Multi-Agent Reinforcement Learning},
-  booktitle = {Proceedings of the  nternational Conference on Learning Representations (ICLR) workshop},
+  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR) workshop},
   series = {ICLR workshop '22},
   pages     = {1-16},
   year      = {2022},
@@ -24,10 +24,10 @@ This code is modified on the basis of https://github.com/wingsweihua/colight . I
 
 Here we provide the map we use in the paper: a 6x6 grid map whose block is 100 meters long and 100 meters wide. Modify the road net in the following code of runexp.py . So please just let the following arguments be.
 
-    parser.add_argument("--memo", type=str, default='0515_afternoon_Colight_6_6_bi')
+    parser.add_argument("--memo", type=str, default='0515_afternoon_Colight_6_6_bi') # meaningless default name
     parser.add_argument("--road_net", type=str, default='6_6') # or '1_33'
-	parser.add_argument("--volume", type=str, default='small') # or 'fuhua'
-	parser.add_argument("--suffix", type=str, default="2570_bi") # or '0.4x24hto1h'
+    parser.add_argument("--volume", type=str, default='small') # or 'fuhua'
+    parser.add_argument("--suffix", type=str, default="2570_bi") # or '0.4x24hto1h'
 
 And you may modify the following arguments in the function parse_args:
 
@@ -100,10 +100,10 @@ At the end of each episode, some statistics like the follows will be given in th
 (b) fuhua_1_33 + 0.4x24hto1h.json
 
     ,duration,queue_length,vehicle_in,vehicle_out
-    ,duration,queue_length,vehicle_in,vehicle_out
     0,1294.5055643879173,12.878787878787879,1258,846
     ...
     346,203.85915492957747,0.5454545454545454,1775,1761
+    ...
 
 The time data (in seconds) reflect how many vehicles have left the network (the more, the better) and how long in average they take to finish their journey (the less, the better).
 
