@@ -10,10 +10,10 @@ In this repository, we release the **Shenzhen** dataset and code for multi-agent
 ## Table of contents
 
 - [PKU Traffic Lights](#pku-traffic-lights)
-  - [Table of contents](#table-of-contents)
-  - [Open Datasets](#open-datasets)
-  - [Code list](#code-list)
-  - [Cite](#cite)
+	- [Table of contents](#table-of-contents)
+	- [Open Datasets](#open-datasets)
+	- [Code list](#code-list)
+	- [Cite](#cite)
 
 ## Open Datasets
 
@@ -28,8 +28,8 @@ In this repository, we release the **Shenzhen** dataset and code for multi-agent
 
 | #    | Title                                                        | Figure                  | Code                   | Tutorial                             |
 | ---- | ------------------------------------------------------------ | ----------------------- | ---------------------- | ------------------------------------ |
-| 1    | Hierarchically and Cooperatively Learning Traffic Signal Control | ![1](./img/hilight.png) | [code](./code/HiLight) | [tutorial](./code/HiLight/README.md) |
-| 2    | MetaVIM: Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control | ![2](./img/metavim.png) | [code](./code/MetaVIM) | [tutorial](./code/MetaVIMREADME.md)  |
+| 1    | [Hierarchically and Cooperatively Learning Traffic Signal Control](https://z0ngqing.github.io/paper/aaai-bingyu21.pdf) | ![1](./img/hilight.png) | [code](./code/HiLight) | [tutorial](./code/HiLight/README.md) |
+| 2    | [MetaVIM: Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control](https://arxiv.org/pdf/2101.00746.pdf) | ![2](./img/metavim.png) | [code](./code/MetaVIM) | [tutorial](./code/MetaVIMREADME.md)  |
 | 3    | LToS                                                         |                         | [code](./code/LToS)    | [tutorial](./code/LToS/README.md)    |
 
 
