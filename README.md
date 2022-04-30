@@ -1,6 +1,6 @@
 # PKU Traffic Lights
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zhuliwen/PKU_Traffic_Lights) ![repo size](https://img.shields.io/github/repo-size/zhuliwen/PKU_Traffic_Lights)
+![GitHub last commit](https://img.shields.io/github/last-commit/zhuliwen/PKU_Traffic_Lights) ![issues](https://img.shields.io/github/issues/zhuliwen/PKU_Traffic_Lights)
 
 In this repository, we release the **Shenzhen** dataset and code for multi-agent traffic signal control.
 
