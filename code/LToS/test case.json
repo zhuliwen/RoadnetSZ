@@ -1,0 +1,22 @@
+{
+    "initial": {
+        "model_path": {
+            "type": "str",
+            "value": "0515_afternoon_Colight_6_6_bi/anon_6_6_300_0.3_bi.json_05_21_22_24_02"
+        },
+        "model_round": {
+            "type": "int",
+            "value": 94
+        }
+    },
+    "input": {
+        "run_counts": {
+            "type": "int",
+            "value": 3600
+        }
+    },
+    "output": {
+        "type": "pandas.Dataframe",
+        "value": ",duration,queue_length,vehicle_in,vehicle_out\n0,98.08715953307393,0.0,2570,2564"
+    }
+}
