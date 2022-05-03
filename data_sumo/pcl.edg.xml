@@ -1,0 +1,3045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<edges version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edges_file.xsd">
+    <edge id="-183920399#0" from="3647240056" to="cluster_1943410595_1943410613_2364917727" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6411.55,5145.34 6412.51,5113.62" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920399"/>
+        </lane>
+    </edge>
+    <edge id="-183920399#1" from="1943410926" to="3647240056" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6393.78,5665.97 6401.09,5488.71,10.72 6404.01,5392.81,10.72 6407.89,5265.50,10.72 6411.55,5145.34" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920399"/>
+        </lane>
+    </edge>
+    <edge id="-227855146#0" from="2364917728" to="2364917723" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6529.29,4502.40 6595.06,4488.76,10.72 6657.90,4477.48,10.72 6722.15,4463.69,10.72 6776.58,4440.19,10.72 6844.48,4387.53" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="227855146"/>
+        </lane>
+    </edge>
+    <edge id="-227855146#1" from="2364917717" to="2364917728" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6442.78,4536.88 6476.21,4523.19,10.72 6529.29,4502.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="227855146"/>
+        </lane>
+    </edge>
+    <edge id="-243119791#2" from="2505523030" to="2505523011" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="-243119791#3" from="2505523036" to="2505523030" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="-243119791#4" from="6222141315" to="2505523036" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="-243119805" from="2505523081" to="2505522906" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119805"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119805"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119805"/>
+        </lane>
+    </edge>
+    <edge id="-243119807" from="2505523100" to="2505523030" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5518.65,5294.25 5522.32,5211.28,10.72 5523.01,5203.88,10.72 5524.78,5198.43,10.72 5529.26,5194.95,10.72 5534.54,5193.68,10.72 5606.77,5197.28" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119807"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119807"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119807"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#0" from="2505522906" to="2505523082" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5738.21,5131.26 5847.35,5136.71,10.72 5854.08,5139.55,10.72 5858.78,5144.89,10.72 5859.17,5153.13,10.72 5851.19,5389.60" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#1" from="2505523011" to="2505522906" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#2" from="2505522960" to="2505523011" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#3" from="2505523068" to="2505522960" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#4" from="2505523007" to="2505523068" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5124.82,5166.67 5286.67,5117.77,10.72 5303.54,5114.35" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#5" from="2505523006" to="2505523007" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5121.15,5276.73 4907.54,5269.84,10.72 4909.78,5228.15,10.72 4936.13,5222.74,10.72 5018.80,5196.97,10.72 5124.82,5166.67" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#6" from="2505523100" to="2505523006" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119817#7" from="2505523036" to="2505523100" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="-243119819" from="2505523007" to="2505523006" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119819"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119819"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119819"/>
+        </lane>
+    </edge>
+    <edge id="-243384968#0" from="2508061873" to="cluster_2508061870_2508061907_5140241021" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5197.78,4472.55 5220.34,4448.84,10.72 5302.52,4369.20,10.72 5340.31,4329.32,10.72 5342.50,4232.38" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384968 243384970"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384968"/>
+        </lane>
+    </edge>
+    <edge id="-243384968#1" from="2508061829" to="2508061873" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384968"/>
+        </lane>
+    </edge>
+    <edge id="-243384968#2" from="2508061827" to="2508061829" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5112.31,4393.79 5125.27,4405.19,10.72 5133.41,4407.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384968"/>
+        </lane>
+    </edge>
+    <edge id="-243384977#0" from="2508061887" to="cluster_2508061870_2508061907_5140241021" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5256.87,4285.06 5265.44,4277.01,10.72 5296.15,4252.60,10.72 5312.93,4241.39,10.72 5325.61,4235.92,10.72 5342.50,4232.38" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="-243384977#1" from="2508061869" to="2508061887" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="-243384977#2" from="2508061829" to="2508061869" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#0" from="2508068095" to="2508068042" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4861.42,4745.82 4815.44,4738.38,10.36 4784.39,4734.36,10.72 4691.18,4721.34" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#1" from="2508068037" to="2508068095" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4948.27,4824.89 4901.52,4762.18,10.72 4861.42,4745.82" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#2" from="2508068024" to="2508068037" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#3" from="2508068100" to="2508068024" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#4" from="2508068049" to="2508068100" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5221.24,4936.45 5171.11,4932.04,10.72 5120.70,4919.50" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#5" from="2508068061" to="2508068049" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5109.44,5056.82 5118.96,5057.04,10.72 5218.47,5029.57,10.72 5238.85,5025.36,10.72 5247.17,5023.33,10.72 5253.90,5017.97,10.72 5257.32,5012.55,10.72 5260.04,4958.79,10.72 5259.13,4948.90,10.72 5254.30,4941.67,10.72 5247.19,4938.24,10.72 5221.24,4936.45" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385768#6" from="2508068047" to="2508068061" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="-243385770" from="1943410537" to="2508068049" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385770"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385770"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385770"/>
+        </lane>
+    </edge>
+    <edge id="-243385771#0" from="2508068024" to="2508068073" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385771"/>
+        </lane>
+    </edge>
+    <edge id="-243385771#1" from="1943410525" to="2508068024" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385771"/>
+        </lane>
+    </edge>
+    <edge id="-243385773#0" from="2508068095" to="2508068065" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385773"/>
+        </lane>
+    </edge>
+    <edge id="-243385773#1" from="2508068103" to="2508068095" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385773"/>
+        </lane>
+    </edge>
+    <edge id="-243385774#0" from="2508068073" to="2508068057" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4995.71,4986.59 4955.96,4985.10,10.72 4921.21,4983.80,10.72 4906.83,4980.56" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774 479205857 608477070"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="-243385774#1" from="2508068050" to="2508068073" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="-243385774#2" from="2508068105" to="2508068050" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="-243385774#3" from="cluster_2508068033_2508068070" to="2508068105" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5112.11,4990.95 5095.28,4990.32" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="-243385776#0" from="2508068047" to="2508068050" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="-243385776#1" from="2508068093" to="2508068047" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4980.27,5083.30 5017.38,5084.69,10.72 5027.36,5082.14,10.72 5034.21,5077.55,10.72 5036.98,5070.26,10.72 5038.52,5055.13" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="-243385776#2" from="2508068057" to="2508068093" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4906.83,4980.56 4907.05,5031.96,10.72 4906.66,5049.80,10.72 4906.06,5080.53,10.72 4980.27,5083.30" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="-243385777#0" from="2508068071" to="2508068061" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385777"/>
+        </lane>
+    </edge>
+    <edge id="-243385777#1" from="cluster_2508068033_2508068070" to="2508068071" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5111.81,4998.64 5111.35,5009.62" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385777"/>
+        </lane>
+    </edge>
+    <edge id="-243385778#0" from="2508068092" to="cluster_2508068033_2508068070" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5118.90,4956.24 5117.18,4991.15,10.72 5112.11,4990.95" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385778 243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385778"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385778"/>
+        </lane>
+    </edge>
+    <edge id="-243385778#1" from="2508068100" to="2508068092" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385778"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385778"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385778"/>
+        </lane>
+    </edge>
+    <edge id="-243385780" from="2508068103" to="2508068037" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385780"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385780"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385780"/>
+        </lane>
+    </edge>
+    <edge id="-243387654" from="2508090913" to="5140241022" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="6597.95,4146.26 6539.29,4187.87,10.72 6489.56,4176.73" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387654"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387654"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387654"/>
+        </lane>
+    </edge>
+    <edge id="-243387657#0" from="5140241202" to="2508090888" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387657"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387657"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387657"/>
+        </lane>
+    </edge>
+    <edge id="-243387667" from="2508090935" to="2364917728" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6490.79,4560.54 6531.45,4536.12,10.72 6529.29,4502.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387667"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387667"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387667"/>
+        </lane>
+    </edge>
+    <edge id="-243387669" from="2508090879" to="5140241202" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="6414.50,4852.75 6042.04,4839.45,10.72 6060.25,4980.05,10.72 6070.34,5060.64" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387669 243387657"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387669 243387657"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387669 243387657"/>
+        </lane>
+    </edge>
+    <edge id="-402047416" from="2508061873" to="cluster_2508061870_2508061907_5140241021" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5197.78,4472.55 5241.37,4502.50,10.72 5411.71,4534.84,10.72 5417.44,4535.21,10.72 5422.89,4534.00,10.72 5426.47,4530.56,10.72 5428.82,4525.36,10.72 5440.96,4219.67,10.72 5439.73,4212.56,10.72 5437.43,4206.97,10.72 5433.81,4202.67,10.72 5426.50,4197.15,10.72 5410.72,4195.80,10.72 5384.08,4196.54,10.72 5350.65,4209.34,10.72 5343.07,4218.17" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402047416 402047415"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402047416 402047415"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402047416 402047415"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#1" from="5179129478" to="cluster_2508090929_5179129473" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5528.12,4477.34 5482.09,4474.88" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#2" from="5345110852" to="5179129478" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#3" from="5179129483" to="5345110852" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5776.11,4491.40 5730.38,4489.62,10.72 5685.59,4487.70,10.72 5638.52,4484.78" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#6" from="6240866858" to="5179129483" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6221.31,4501.28 6018.96,4496.80,10.72 6000.80,4496.38,10.72 5776.11,4491.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#7" from="4044817218" to="6240866858" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-402048867#8" from="5179129484" to="4044817218" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6443.63,4505.89 6429.96,4504.96,10.72 6421.18,4505.05" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="-477814981" from="2508068091" to="2508068103" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4857.37,4981.66 4862.26,4893.53,10.72 4863.69,4862.54,10.72 4863.89,4823.85" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="477814981 477814982 243385773"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="477814981 477814982 243385773"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="477814981 477814982 243385773"/>
+        </lane>
+    </edge>
+    <edge id="-529070132#0" from="5140241110" to="5140241102" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6597.23,4965.76 6621.90,4981.82,10.72 6643.33,4982.43,10.72 6648.68,4985.68,10.72 6651.38,4990.37,10.72 6653.50,4996.72,10.72 6651.95,5061.03,10.72 6646.71,5066.11,10.72 6601.85,5065.21,10.72 6465.35,5061.79,10.72 6458.33,5057.95,10.72 6455.99,5054.01" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070132"/>
+        </lane>
+    </edge>
+    <edge id="-529070132#1" from="5140241102" to="5140241110" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6455.99,5054.01 6456.49,5003.77,10.72 6459.50,4999.00,10.72 6465.33,4996.53,10.72 6471.87,4995.91,10.72 6516.98,4997.18,10.72 6525.78,4994.94,10.72 6533.53,4989.71,10.72 6555.19,4969.56,10.72 6561.79,4966.16,10.72 6567.58,4965.54,10.72 6597.23,4965.76" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070132"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#1" from="5140241330" to="cluster_5140241325_5140241331" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5265.68,4908.04 5306.99,4911.09" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#2" from="1943410537" to="5140241330" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#3" from="1943410525" to="1943410537" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5030.53,4842.18 5064.24,4867.58,10.72 5104.03,4887.08,10.72 5142.75,4900.03,10.72 5176.87,4904.41,10.72 5223.27,4905.15" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#4" from="2508068065" to="1943410525" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4924.78,4684.24 4940.48,4725.16,10.72 4950.74,4746.42,10.72 4964.67,4770.06,10.72 4983.55,4795.61,10.72 5004.67,4817.85,10.72 5030.53,4842.18" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#5" from="5140241024" to="2508068065" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4898.47,4612.76 4903.22,4625.92,10.72 4924.78,4684.24" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-529070163#6" from="cluster_5140241006_5140241020" to="5140241024" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4886.08,4580.22 4898.47,4612.76" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="-553781209#0" from="5345110852" to="5179129483" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5638.52,4484.78 5632.21,4655.52,10.72 5770.45,4661.18,10.72 5776.11,4491.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="553781209 666569434 666569435"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="553781209 666569434 666569435"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="553781209 666569434 666569435"/>
+        </lane>
+    </edge>
+    <edge id="-553781209#1" from="2366083151" to="5345110852" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="553781209"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="553781209"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="553781209"/>
+        </lane>
+    </edge>
+    <edge id="-608477070#0" from="2508068091" to="2508068052" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="608477070"/>
+        </lane>
+    </edge>
+    <edge id="-608477070#1" from="2508068057" to="2508068091" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="608477070"/>
+        </lane>
+    </edge>
+    <edge id="-666569435" from="5179129483" to="5345110852" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5776.11,4491.40 5770.45,4661.18,10.72 5632.21,4655.52,10.72 5638.52,4484.78" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569435 666569434 553781209"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569435 666569434 553781209"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569435 666569434 553781209"/>
+        </lane>
+    </edge>
+    <edge id="-666569439" from="6240866859" to="6240866858" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569439"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569439"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569439"/>
+        </lane>
+    </edge>
+    <edge id="168274320#0" from="1901970853" to="1943410433" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4938.57,3807.89 4928.31,3836.95,10.72 4923.85,3848.05,10.72 4916.24,3863.63,10.72 4910.15,3874.97,10.72 4898.55,3893.85,10.72 4878.64,3922.97,10.72 4801.54,4023.61" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="168274320"/>
+        </lane>
+    </edge>
+    <edge id="168274320#1" from="168274320#1-AddedOnRampNode" to="cluster_2366083153_5140241000" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4737.84,4100.70 4706.49,4138.64,10.72 4665.12,4192.31,10.72 4643.75,4225.58,10.72 4622.80,4264.28,10.72 4607.91,4301.24,10.72 4594.70,4340.23,10.72 4584.33,4374.79,10.72 4575.89,4411.68,10.72 4571.28,4449.86,10.72 4568.45,4488.84,10.72 4565.52,4542.75,10.72 4564.56,4568.40,10.72 4564.03,4582.52" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="168274320"/>
+        </lane>
+    </edge>
+    <edge id="168274320#1-AddedOnRampEdge" from="1943410433" to="168274320#1-AddedOnRampNode" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4802.77,4024.63 4739.07,4101.72" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="168274320"/>
+        </lane>
+    </edge>
+    <edge id="168274320#4" from="cluster_2366083153_5140241000" to="cluster_1943410648_2317023650" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4563.61,4595.66 4561.99,4646.10,10.72 4557.74,4783.47,10.72 4545.98,5119.47,10.72 4545.08,5145.19,10.72 4544.67,5156.86" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="168274320"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="168274320"/>
+        </lane>
+    </edge>
+    <edge id="183920399#0" from="cluster_1943410595_1943410613_2364917727" to="3647240056" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6412.51,5113.62 6411.55,5145.34" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920399"/>
+        </lane>
+    </edge>
+    <edge id="183920399#1" from="3647240056" to="1943410926" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6411.55,5145.34 6407.89,5265.50,10.72 6404.01,5392.81,10.72 6401.09,5488.71,10.72 6393.78,5665.97" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920399"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920399"/>
+        </lane>
+    </edge>
+    <edge id="183920404#0" from="1943411230" to="2505523136" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6166.68,6586.79 6158.17,6575.71,10.72 6085.82,6234.29,10.72 5975.44,5719.56,10.72 5970.85,5694.86,10.72 5964.52,5643.53,10.72 5961.37,5609.34,10.72 5960.17,5571.42,10.72 5961.44,5476.33,10.72 5969.93,5186.86" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920404"/>
+        </lane>
+    </edge>
+    <edge id="183920404#3" from="2505523136" to="2132748650" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5968.33,5186.81 5969.39,5153.06" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920404"/>
+        </lane>
+    </edge>
+    <edge id="183920404#4" from="2132748650" to="cluster_2317023651_2317023675_2317023678_2508090940" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5970.99,5153.11 5973.85,5096.45" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920404"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920404"/>
+        </lane>
+    </edge>
+    <edge id="183920405#1" from="cluster_1943410584_2317023679_2505522947_5140241324" to="5140241341" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5303.94,5057.97 5301.51,5041.56,10.72 5302.45,5020.40" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#10" from="183920405#10-AddedOnRampNode" to="183920405#10-AddedOffRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5483.45,4032.78 5487.72,3902.51,10.72 5491.96,3835.64,10.72 5494.34,3784.87,10.72 5495.55,3746.59,10.72 5496.08,3726.44,10.72 5496.86,3697.54,10.72 5497.02,3689.20,10.72 5505.99,3676.80,10.72 5511.85,3689.05,10.72 5511.83,3697.16,10.72 5511.79,3726.54,10.72 5511.50,3746.68,10.72 5510.38,3786.00,10.72 5503.05,4025.91,10.72 5502.06,4035.45" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+    </edge>
+    <edge id="183920405#10-AddedOffRampEdge" from="183920405#10-AddedOffRampNode" to="5179129450" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5503.65,4035.61 5503.47,4037.42,10.72 5498.77,4066.92,10.72 5498.02,4076.59,10.72 5495.77,4135.06" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+    </edge>
+    <edge id="183920405#10-AddedOnRampEdge" from="5179129459" to="183920405#10-AddedOnRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5478.58,4132.67 5481.85,4032.73" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405 243387686"/>
+        </lane>
+    </edge>
+    <edge id="183920405#2" from="5140241341" to="5140241327" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5300.85,5020.34 5303.74,4941.70" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#3" from="5140241327" to="cluster_5140241325_5140241331" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5305.34,4941.76 5306.99,4911.09" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#4" from="cluster_5140241325_5140241331" to="cluster_2508090929_5179129473" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5306.99,4911.09 5307.32,4904.00,1.67 5309.12,4865.57,10.72 5310.86,4843.93,10.72 5315.66,4821.49,10.72 5322.06,4798.93,10.72 5329.87,4778.14,10.72 5340.88,4753.98,10.72 5352.67,4735.11,10.72 5364.79,4717.13,10.72 5376.87,4700.92,10.72 5391.42,4681.53,10.72 5405.57,4663.29,10.72 5417.59,4647.12,10.72 5433.31,4624.03,10.72 5444.65,4600.86,10.72 5455.73,4569.43,10.72 5461.71,4546.28,10.72 5464.92,4524.59,10.72 5466.26,4499.87,10.72 5467.23,4474.14" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#5" from="cluster_2508090929_5179129473" to="183920405#5-AddedOffRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5467.23,4474.14 5473.07,4320.08" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#5-AddedOffRampEdge" from="183920405#5-AddedOffRampNode" to="5179129467" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5471.47,4320.02 5471.91,4308.39,10.72 5474.59,4261.20,10.72 5475.96,4220.14" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#6" from="5179129467" to="cluster_2508090910_5140241014_5179129422_5345110196" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5477.56,4220.19 5478.11,4195.22,10.72 5478.44,4180.31" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920405#9" from="cluster_2508090910_5140241014_5179129422_5345110196" to="5179129459" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5478.85,4170.21 5480.17,4132.72" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920405"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920405"/>
+        </lane>
+    </edge>
+    <edge id="183920406#0" from="1943410633" to="5140241367" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="7048.60,5139.31 7006.10,5138.18" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#1" from="5140241367" to="5140241370" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="7006.14,5136.58 6870.40,5132.49,10.72 6533.68,5119.01" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#10" from="cluster_2317023651_2317023675_2317023678_2508090940" to="5140241212" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5973.85,5096.45 5920.10,5094.32" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#11" from="5140241212" to="5140241217" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5920.06,5095.92 5892.90,5095.20" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#12" from="5140241217" to="183920406#12-AddedOffRampNode" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#12-AddedOffRampEdge" from="183920406#12-AddedOffRampNode" to="1943410578" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5784.73,5091.55 5684.79,5088.17" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#13" from="1943410578" to="5140241220" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#14" from="183920406#14-AddedOnRampNode" to="cluster_1943410584_2317023679_2505522947_5140241324" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5360.27,5074.48 5356.95,5074.57,10.72 5321.88,5077.02" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#14-AddedOnRampEdge" from="5140241220" to="183920406#14-AddedOnRampNode" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5460.15,5078.25 5385.75,5075.44,10.72 5360.31,5076.08" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#16" from="cluster_1943410584_2317023679_2505522947_5140241324" to="2697873398" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5303.95,5080.28 5278.92,5084.10" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#17" from="2697873398" to="2697873488" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5278.68,5082.51 5244.47,5088.09,10.72 5218.91,5093.40,10.72 5175.24,5105.34,10.72 4972.21,5167.24,10.72 4939.04,5175.27,10.72 4903.20,5182.46,10.72 4871.05,5185.91,10.72 4832.24,5187.55,10.72 4658.47,5180.94" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#18" from="183920406#18-AddedOnRampNode" to="cluster_1943410648_2317023650" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4558.53,5177.36 4550.56,5177.07,10.72 4543.91,5176.83" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#18-AddedOnRampEdge" from="2697873488" to="183920406#18-AddedOnRampNode" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4658.41,5182.54 4591.43,5180.13,10.72 4558.48,5178.96" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#2" from="5140241370" to="3647240051" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6533.61,5120.61 6450.93,5116.93" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#20" from="cluster_1943410648_2317023650" to="1943410649" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4543.91,5176.83 4514.05,5175.95" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#3" from="3647240051" to="cluster_1943410595_1943410613_2364917727" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6451.00,5115.33 6412.51,5113.62" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#4" from="cluster_1943410595_1943410613_2364917727" to="3647240050" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6412.51,5113.62 6367.46,5111.61" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#5" from="3647240050" to="5140241350" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6367.39,5113.21 6325.13,5111.32" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#6" from="5140241350" to="1943410593" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#7" from="1943410593" to="5140241213" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6130.63,5105.06 6034.47,5101.10" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="183920406#8" from="5140241213" to="cluster_2317023651_2317023675_2317023678_2508090940" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6034.54,5099.50 5991.87,5097.25" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="183920406"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="183920406"/>
+        </lane>
+    </edge>
+    <edge id="222765850#1" from="cluster_2317023651_2317023675_2317023678_2508090940" to="5140241216" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5991.87,5097.25 5989.90,5146.93" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="222765850"/>
+        </lane>
+    </edge>
+    <edge id="222765850#2" from="222765850#2-AddedOnRampNode" to="2132748585" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5985.06,5246.81 5979.01,5378.05,10.72 5976.12,5476.59,10.72 5974.91,5557.49,10.72 5976.43,5599.58,10.72 5980.95,5641.95,10.72 5983.41,5669.53,10.72 5990.72,5716.05,10.72 5994.52,5732.70,10.72 6002.79,5771.66,10.72 6070.87,6092.49,10.72 6101.47,6231.21,10.72 6104.31,6244.12,10.72 6171.90,6565.46,10.72 6179.55,6577.16" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="222765850"/>
+        </lane>
+    </edge>
+    <edge id="222765850#2-AddedOnRampEdge" from="5140241216" to="222765850#2-AddedOnRampNode" name="同发路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5991.49,5147.02 5990.16,5170.85,10.72 5986.66,5246.89" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="222765850"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="222765850"/>
+        </lane>
+    </edge>
+    <edge id="227786925" from="278060947" to="2701105175" name="南光高速" priority="13" type="highway.motorway" numLanes="3" speed="44.44" shape="4561.29,5953.59 4546.79,5824.79,10.72 4526.45,5595.20,10.72 4518.23,5395.20,10.72 4520.36,5187.73,10.72 4524.43,5093.39,10.72 4525.62,5064.95,10.72 4533.74,4872.05,10.72 4540.66,4631.72,10.72 4543.87,4535.75,10.72 4545.57,4489.74,10.72 4548.99,4447.58,10.72 4554.38,4408.06,10.72 4562.14,4368.56,10.72 4571.14,4333.12,10.72 4583.79,4292.40,10.72 4598.96,4255.36,10.72 4618.80,4218.50,10.72 4641.65,4180.31,10.72 4686.20,4119.80,10.72 4730.07,4067.75,10.72 4825.17,3962.84,10.72 4884.77,3894.00,10.72 4936.14,3837.53" spreadType="center" allow="private emergency authority army vip passenger hov taxi bus coach delivery truck trailer motorcycle evehicle custom1 custom2">
+        <lane index="0">
+            <param key="origId" value="227786925"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="227786925"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="227786925"/>
+        </lane>
+    </edge>
+    <edge id="227855146#0" from="2364917723" to="2364917728" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6844.48,4387.53 6776.58,4440.19,10.72 6722.15,4463.69,10.72 6657.90,4477.48,10.72 6595.06,4488.76,10.72 6529.29,4502.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="227855146"/>
+        </lane>
+    </edge>
+    <edge id="227855146#1" from="2364917728" to="2364917717" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6529.29,4502.40 6476.21,4523.19,10.72 6442.78,4536.88" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="227855146"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="227855146"/>
+        </lane>
+    </edge>
+    <edge id="243119791#2" from="2505523011" to="2505523030" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="243119791#3" from="2505523030" to="2505523036" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="243119791#4" from="2505523036" to="6222141315" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119791"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119791"/>
+        </lane>
+    </edge>
+    <edge id="243119805" from="2505522906" to="2505523081" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119805"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119805"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119805"/>
+        </lane>
+    </edge>
+    <edge id="243119807" from="2505523030" to="2505523100" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5606.77,5197.28 5534.54,5193.68,10.72 5529.26,5194.95,10.72 5524.78,5198.43,10.72 5523.01,5203.88,10.72 5522.32,5211.28,10.72 5518.65,5294.25" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119807"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119807"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119807"/>
+        </lane>
+    </edge>
+    <edge id="243119812#0" from="cluster_1943410584_2317023679_2505522947_5140241324" to="5232900604" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5321.88,5077.02 5321.43,5098.16" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243119812"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119812"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119812"/>
+        </lane>
+    </edge>
+    <edge id="243119812#1" from="5232900604" to="2505522960" priority="4" type="highway.residential" numLanes="3" speed="13.89" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243119812"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119812"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119812"/>
+        </lane>
+    </edge>
+    <edge id="243119817#0" from="2505523082" to="2505522906" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5851.19,5389.60 5859.17,5153.13,10.72 5858.78,5144.89,10.72 5854.08,5139.55,10.72 5847.35,5136.71,10.72 5738.21,5131.26" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#1" from="2505522906" to="2505523011" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#2" from="2505523011" to="2505522960" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#3" from="2505522960" to="2505523068" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#4" from="2505523068" to="2505523007" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5303.54,5114.35 5286.67,5117.77,10.72 5124.82,5166.67" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#5" from="2505523007" to="2505523006" priority="2" type="highway.service" numLanes="3" speed="5.56" shape="5124.82,5166.67 5018.80,5196.97,10.72 4936.13,5222.74,10.72 4909.78,5228.15,10.72 4907.54,5269.84,10.72 5121.15,5276.73" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#6" from="2505523006" to="2505523100" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119817#7" from="2505523100" to="2505523036" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119817"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119817"/>
+        </lane>
+    </edge>
+    <edge id="243119818" from="2505523068" to="cluster_1943410584_2317023679_2505522947_5140241324" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5303.54,5114.35 5303.71,5078.69" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243119818"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119818"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119818"/>
+        </lane>
+    </edge>
+    <edge id="243119819" from="2505523006" to="2505523007" priority="2" type="highway.service" numLanes="3" speed="5.56" allow="delivery bicycle pedestrian">
+        <lane index="0">
+            <param key="origId" value="243119819"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243119819"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243119819"/>
+        </lane>
+    </edge>
+    <edge id="243384968#1" from="2508061873" to="2508061829" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384968"/>
+        </lane>
+    </edge>
+    <edge id="243384968#2" from="2508061829" to="2508061827" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5133.41,4407.89 5125.27,4405.19,10.72 5112.31,4393.79" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384968"/>
+        </lane>
+    </edge>
+    <edge id="243384970#2" from="cluster_2508061870_2508061907_5140241021" to="2508061873" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5342.50,4232.38 5340.31,4329.32,10.72 5302.52,4369.20,10.72 5220.34,4448.84,10.72 5197.78,4472.55" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384970 243384968"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384970 243384968"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384970 243384968"/>
+        </lane>
+    </edge>
+    <edge id="243384977#0" from="cluster_2508061870_2508061907_5140241021" to="2508061887" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5342.50,4232.38 5325.61,4235.92,10.72 5312.93,4241.39,10.72 5296.15,4252.60,10.72 5265.44,4277.01,10.72 5256.87,4285.06" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="243384977#1" from="2508061887" to="2508061869" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="243384977#2" from="2508061869" to="2508061829" priority="4" type="highway.residential" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243384977"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243384977"/>
+        </lane>
+    </edge>
+    <edge id="243385768#0" from="2508068042" to="2508068095" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4691.18,4721.34 4784.86,4734.64,10.06 4815.18,4738.52,9.36 4861.42,4745.82" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#1" from="2508068095" to="2508068037" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4861.42,4745.82 4901.52,4762.18,10.72 4948.27,4824.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#2" from="2508068037" to="2508068024" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#3" from="2508068024" to="2508068100" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#4" from="2508068100" to="2508068049" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5120.70,4919.50 5171.74,4932.66,10.72 5221.24,4936.45" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#5" from="2508068049" to="2508068061" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5221.24,4936.45 5247.19,4938.24,10.72 5254.30,4941.67,10.72 5259.13,4948.90,10.72 5260.04,4958.79,10.72 5257.32,5012.55,10.72 5253.90,5017.97,10.72 5247.17,5023.33,10.72 5238.85,5025.36,10.72 5218.47,5029.57,10.72 5118.96,5057.04,10.72 5109.44,5056.82" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385768#6" from="2508068061" to="2508068047" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385768"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385768"/>
+        </lane>
+    </edge>
+    <edge id="243385770" from="2508068049" to="1943410537" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5221.24,4936.45 5221.99,4922.02 5223.27,4905.15" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385770"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385770"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385770"/>
+        </lane>
+    </edge>
+    <edge id="243385771#0" from="2508068073" to="2508068024" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385771"/>
+        </lane>
+    </edge>
+    <edge id="243385771#1" from="2508068024" to="1943410525" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385771"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385771"/>
+        </lane>
+    </edge>
+    <edge id="243385773#0" from="2508068065" to="2508068095" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385773"/>
+        </lane>
+    </edge>
+    <edge id="243385773#1" from="2508068095" to="2508068103" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385773"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385773"/>
+        </lane>
+    </edge>
+    <edge id="243385773#2" from="2508068103" to="2508068091" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4863.89,4823.85 4863.69,4862.54,10.72 4862.26,4893.53,10.72 4857.37,4981.66" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385773 477814982 477814981"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385773 477814982 477814981"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385773 477814982 477814981"/>
+        </lane>
+    </edge>
+    <edge id="243385774#1" from="2508068073" to="2508068050" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="243385774#2" from="2508068050" to="2508068105" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="243385774#3" from="2508068105" to="cluster_2508068033_2508068070" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5095.28,4990.32 5112.11,4990.95" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774"/>
+        </lane>
+    </edge>
+    <edge id="243385774#4" from="cluster_2508068033_2508068070" to="2508068092" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5112.11,4990.95 5117.18,4991.15,10.72 5118.90,4956.24" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385774 243385778"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385774 243385778"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385774 243385778"/>
+        </lane>
+    </edge>
+    <edge id="243385776#0" from="2508068050" to="2508068047" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="243385776#1" from="2508068047" to="2508068093" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5038.52,5055.13 5036.98,5070.26,10.72 5034.21,5077.55,10.72 5027.36,5082.14,10.72 5017.38,5084.69,10.72 4980.27,5083.30" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="243385776#2" from="2508068093" to="2508068057" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4980.27,5083.30 4906.06,5080.53,10.72 4906.66,5049.80,10.72 4907.55,5032.97,10.72 4906.83,4980.56" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385776"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385776"/>
+        </lane>
+    </edge>
+    <edge id="243385777#0" from="2508068061" to="2508068071" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385777"/>
+        </lane>
+    </edge>
+    <edge id="243385777#1" from="2508068071" to="cluster_2508068033_2508068070" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="5111.35,5009.62 5111.81,4998.64" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385777"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385777"/>
+        </lane>
+    </edge>
+    <edge id="243385778#1" from="2508068092" to="2508068100" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385778"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385778"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385778"/>
+        </lane>
+    </edge>
+    <edge id="243385780" from="2508068037" to="2508068103" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243385780"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243385780"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243385780"/>
+        </lane>
+    </edge>
+    <edge id="243387654" from="5140241022" to="2508090913" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="6489.56,4176.73 6539.29,4187.87,10.72 6597.95,4146.26" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387654"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387654"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387654"/>
+        </lane>
+    </edge>
+    <edge id="243387657#0" from="2508090888" to="5140241202" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387657"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387657"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387657"/>
+        </lane>
+    </edge>
+    <edge id="243387657#1" from="5140241202" to="2508090879" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="6070.34,5060.64 6060.25,4980.05,10.72 6042.04,4839.45,10.72 6414.50,4852.75" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387657 243387669"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387657 243387669"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387657 243387669"/>
+        </lane>
+    </edge>
+    <edge id="243387667" from="2364917728" to="2508090935" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6529.29,4502.40 6531.45,4536.12,10.72 6490.79,4560.54" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387667"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387667"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387667"/>
+        </lane>
+    </edge>
+    <edge id="243387686#1" from="5179129450" to="cluster_2508090910_5140241014_5179129422_5345110196" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5494.17,4134.99 5493.20,4155.72,10.72 5492.55,4170.11" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#10" from="cluster_5140241325_5140241331" to="243387686#10-AddedOffRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5323.59,4910.99 5325.40,4931.43" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#10-AddedOffRampEdge" from="243387686#10-AddedOffRampNode" to="5140241332" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5327.00,4931.30 5326.84,4938.80,10.72 5324.96,5016.71" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#11" from="5140241332" to="cluster_1943410584_2317023679_2505522947_5140241324" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5323.36,5016.67 5322.75,5055.19" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#4" from="cluster_2508090910_5140241014_5179129422_5345110196" to="5179129466" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5492.11,4180.18 5490.98,4215.89" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#5" from="243387686#5-AddedOnRampNode" to="243387686#5-AddedOffRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#5-AddedOffRampEdge" from="243387686#5-AddedOffRampNode" to="5179129474" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5488.56,4333.21 5485.13,4433.15" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#5-AddedOnRampEdge" from="5179129466" to="243387686#5-AddedOnRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5492.58,4215.94 5489.15,4315.89" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#6" from="5179129474" to="cluster_2508090929_5179129473" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5483.53,4433.10 5482.09,4474.88" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#7" from="cluster_2508090929_5179129473" to="5179129482" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5482.09,4474.88 5478.89,4517.09" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#8" from="243387686#8-AddedOnRampNode" to="cluster_5140241325_5140241331" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5453.92,4613.38 5453.46,4614.50,10.72 5443.71,4633.12,10.72 5432.90,4648.41,10.72 5423.95,4660.41,10.72 5380.16,4720.99,10.72 5365.07,4744.31,10.72 5355.61,4759.01,10.72 5350.00,4770.34,10.72 5344.35,4784.03,10.72 5338.86,4801.09,10.72 5333.85,4820.20,10.72 5329.92,4839.80,10.72 5327.14,4860.58,10.72 5323.59,4910.99" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="243387686#8-AddedOnRampEdge" from="5179129482" to="243387686#8-AddedOnRampNode" name="创科路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5480.49,4517.21 5479.59,4529.17,10.72 5475.26,4553.87,10.72 5470.06,4575.31,10.72 5463.07,4595.35,10.72 5455.40,4613.99" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="243387686"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="243387686"/>
+        </lane>
+    </edge>
+    <edge id="293326333#0" from="2317023659" to="cluster_1943410648_2317023650" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4514.99,5153.28 4544.67,5156.86" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#1" from="cluster_1943410648_2317023650" to="2697873448" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4544.79,5155.27 4581.12,5157.90,10.72 4626.10,5159.69" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#11" from="cluster_2317023651_2317023675_2317023678_2508090940" to="2508090888" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5992.40,5076.99 6072.80,5080.33" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#12" from="2508090888" to="5140241206" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#13" from="293326333#13-AddedOnRampNode" to="5140241204" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#13-AddedOnRampEdge" from="5140241206" to="293326333#13-AddedOnRampNode" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6153.52,5082.08 6253.43,5086.23" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#14" from="5140241204" to="3647240048" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6300.46,5088.18 6322.99,5089.11,10.72 6373.60,5091.14" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#15" from="3647240048" to="cluster_1943410595_1943410613_2364917727" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6373.53,5092.74 6405.41,5094.01" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#17" from="cluster_1943410595_1943410613_2364917727" to="3647240049" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6422.45,5094.50 6453.62,5095.60" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#18" from="3647240049" to="5140241196" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6453.67,5094.00 6492.74,5095.36" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#19" from="5140241196" to="5140241098" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#2" from="2697873448" to="2317023669" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="4626.03,5161.29 4672.86,5163.60,10.72 4820.67,5167.45,10.72 4848.97,5166.96,10.72 4879.47,5164.67,10.72 4912.07,5160.05,10.72 4945.75,5153.69,10.72 4971.20,5147.97,10.72 4995.29,5141.24,10.72 5095.97,5109.81,10.72 5184.28,5082.31" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#20" from="5140241098" to="1943410598" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="6871.19,5111.03 6986.84,5114.89,10.72 7029.01,5116.59,10.72 7047.34,5117.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#3" from="2317023669" to="5140241337" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5183.90,5080.76 5238.70,5067.27,10.72 5261.86,5062.66" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#4" from="5140241337" to="cluster_1943410584_2317023679_2505522947_5140241324" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5262.17,5064.23 5303.94,5057.97" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#6" from="cluster_1943410584_2317023679_2505522947_5140241324" to="2317023663" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5322.75,5055.19 5361.58,5052.12" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#7" from="2317023663" to="5140241198" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5361.54,5050.52 5378.46,5050.05" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#8" from="5140241198" to="5140241208" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5378.50,5051.65 5420.33,5052.44,10.72 5645.87,5060.26,10.72 5810.35,5069.17" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#9" from="293326333#9-AddedOnRampNode" to="cluster_2317023651_2317023675_2317023678_2508090940" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5910.25,5073.57 5974.82,5076.42" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="293326333#9-AddedOnRampEdge" from="5140241208" to="293326333#9-AddedOnRampNode" name="留仙大道" priority="9" type="highway.primary" numLanes="3" speed="27.78" shape="5810.42,5067.58 5910.32,5071.97" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="293326333"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="293326333"/>
+        </lane>
+    </edge>
+    <edge id="360123634#0" from="3647240056" to="5140241343" priority="8" type="highway.primary_link" numLanes="1" speed="22.22" shape="6410.32,5146.37 6403.71,5138.46" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123634"/>
+        </lane>
+    </edge>
+    <edge id="360123643#1" from="cluster_1943410595_1943410613_2364917727" to="cluster_3647240040_5232900593" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6405.41,5094.01 6406.42,5067.10" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#10" from="360123643#10-AddedOnRampNode" to="6240866704" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6443.99,4022.28 6448.66,3890.86,10.72 6451.14,3808.55,10.72 6451.81,3781.90,10.72 6452.27,3764.04,10.72 6452.69,3747.19,10.72 6454.24,3685.25,10.72 6454.74,3667.09" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#10-AddedOnRampEdge" from="5345110841" to="360123643#10-AddedOnRampNode" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6437.90,4122.14 6438.08,4112.81,10.72 6441.25,4054.36,10.72 6442.39,4022.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#3" from="cluster_3647240040_5232900593" to="2508090879" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6406.75,5058.35 6414.50,4852.75" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#4" from="2508090879" to="4044817218" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#5" from="4044817218" to="360123643#5-AddedOffRampNode" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#5-AddedOffRampEdge" from="360123643#5-AddedOffRampNode" to="5345110825" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6428.88,4330.05 6432.46,4230.12" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#6" from="5345110825" to="cluster_2366083155_2366083174_5140241017_5140241018" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6434.06,4230.18 6436.15,4206.86,10.72 6438.48,4176.26" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="360123643#9" from="cluster_2366083155_2366083174_5140241017_5140241018" to="5345110841" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6439.56,4160.79 6439.50,4122.17" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="360123643"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="360123643"/>
+        </lane>
+    </edge>
+    <edge id="362735581#0" from="2366083161" to="5140241034" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735581"/>
+        </lane>
+    </edge>
+    <edge id="362735581#1" from="5140241034" to="362735581#1-AddedOffRampNode" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4535.14,4581.97 4537.12,4539.19,10.72 4539.23,4487.07,10.72 4542.67,4444.33,10.72 4547.52,4406.98,10.72 4554.62,4368.97,10.72 4562.97,4336.97,10.72 4576.85,4291.82,10.72 4591.98,4250.51,10.72 4611.24,4214.52,10.72 4636.31,4173.81,10.72 4679.19,4113.36,10.72 4708.95,4077.54,10.72 4755.72,4024.87" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735581"/>
+        </lane>
+    </edge>
+    <edge id="362735581#1-AddedOffRampEdge" from="362735581#1-AddedOffRampNode" to="277486218" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4754.52,4023.80 4820.91,3949.02" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735581"/>
+        </lane>
+    </edge>
+    <edge id="362735581#2" from="277486218" to="1981097848" name="同乐路" priority="7" type="highway.secondary" numLanes="3" speed="27.78" shape="4822.11,3950.08 4845.29,3917.54,10.72 4863.56,3892.55,10.72 4879.76,3865.87,10.72 4895.53,3834.99,10.72 4912.12,3798.99" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735581"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735581"/>
+        </lane>
+    </edge>
+    <edge id="362735582#0" from="5140241022" to="cluster_2366083155_2366083174_5140241017_5140241018" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6489.45,4181.53 6465.15,4176.52" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#12" from="cluster_2508090910_5140241014_5179129422_5345110196" to="5179129472" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5478.44,4180.31 5463.74,4180.54,10.72 5432.90,4181.84" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#13" from="5179129472" to="cluster_2508061870_2508061907_5140241021" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5433.06,4183.43 5409.56,4185.79,10.72 5393.21,4188.71,10.72 5378.91,4191.67,10.72 5362.34,4196.01,10.72 5342.83,4202.98" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#14" from="cluster_2508061870_2508061907_5140241021" to="2508061827" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5342.29,4201.47 5327.22,4207.64,10.72 5313.25,4213.94,10.72 5295.78,4223.52,10.72 5282.71,4231.95,10.72 5271.27,4240.33,10.72 5259.88,4249.45,10.72 5247.69,4260.35,10.72 5112.31,4393.79" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#15" from="2508061827" to="362735582#15-AddedOffRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#15-AddedOffRampEdge" from="362735582#15-AddedOffRampNode" to="5140241028" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5007.19,4498.76 4998.21,4507.54,10.72 4982.28,4521.53,10.72 4965.82,4535.51,10.72 4952.50,4545.58,10.72 4929.14,4561.43" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#16" from="5140241028" to="cluster_5140241006_5140241020" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4928.24,4560.11 4914.60,4567.52,10.72 4902.68,4573.30,10.72 4886.08,4580.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#17" from="cluster_5140241006_5140241020" to="1943410489" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4886.08,4580.22 4865.28,4587.57,10.72 4848.27,4592.92" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#18" from="362735582#18-AddedOnRampNode" to="cluster_2366083153_5140241000" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4749.32,4602.70 4727.62,4602.34,10.72 4619.91,4597.18,10.72 4578.19,4596.06,10.72 4563.61,4595.66" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#18-AddedOnRampEdge" from="1943410489" to="362735582#18-AddedOnRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4848.71,4594.46 4832.92,4598.99,10.72 4819.25,4601.60,10.72 4805.64,4603.54,10.72 4792.46,4604.44,10.72 4776.31,4604.76,10.72 4749.29,4604.30" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#2" from="cluster_2366083155_2366083174_5140241017_5140241018" to="5345110833" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6438.48,4176.26 6387.38,4175.01" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#20" from="cluster_2366083153_5140241000" to="2366083161" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4563.61,4595.66 4534.54,4595.10" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#3" from="362735582#3-AddedOnRampNode" to="6240866859" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6287.38,4175.25 6271.89,4175.29,10.72 6231.65,4175.66" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#3-AddedOnRampEdge" from="5345110833" to="362735582#3-AddedOnRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6387.38,4176.61 6287.38,4176.85" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#4" from="6240866859" to="2366083151" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6231.65,4175.66 6033.58,4177.45,10.72 6015.07,4177.60,10.72 5787.18,4178.69,10.72 5649.80,4179.45" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#8" from="2366083151" to="362735582#8-AddedOffRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#8-AddedOffRampEdge" from="362735582#8-AddedOffRampNode" to="5179129462" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5624.42,4181.12 5600.48,4182.16,10.72 5575.76,4182.17,10.72 5538.80,4181.84" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362735582#9" from="5179129462" to="cluster_2508090910_5140241014_5179129422_5345110196" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5538.82,4180.24 5508.13,4180.37,10.72 5492.11,4180.18" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362735582"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362735582"/>
+        </lane>
+    </edge>
+    <edge id="362738157" from="2132748514" to="1943411015" name="南光高速" priority="13" type="highway.motorway" numLanes="3" speed="44.44" shape="4922.78,3878.32 4798.15,4017.48,10.72 4699.27,4131.65,10.72 4654.66,4190.85,10.72 4633.79,4225.17,10.72 4614.32,4261.73,10.72 4599.49,4299.13,10.72 4586.85,4337.79,10.72 4576.99,4373.70,10.72 4569.57,4411.80,10.72 4564.96,4448.73,10.72 4562.06,4491.65,10.72 4559.93,4536.99,10.72 4543.48,4952.12,10.72 4540.05,5064.12,10.72 4535.90,5199.51,10.72 4532.84,5327.37,10.72 4532.30,5395.48,10.72 4535.55,5484.43,10.72 4541.89,5610.32,10.72 4552.28,5728.01,10.72 4580.26,5953.48" spreadType="center" allow="private emergency authority army vip passenger hov taxi bus coach delivery truck trailer motorcycle evehicle custom1 custom2">
+        <lane index="0">
+            <param key="origId" value="362738157"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="362738157"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="362738157"/>
+        </lane>
+    </edge>
+    <edge id="402047415" from="cluster_2508061870_2508061907_5140241021" to="2508061873" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="5343.07,4218.17 5350.65,4209.34,10.72 5384.08,4196.54,10.72 5410.72,4195.80,10.72 5426.50,4197.15,10.72 5433.81,4202.67,10.72 5437.43,4206.97,10.72 5439.73,4212.56,10.72 5440.96,4219.67,10.72 5428.82,4525.36,10.72 5426.47,4530.56,10.72 5422.89,4534.00,10.72 5417.44,4535.21,10.72 5411.71,4534.84,10.72 5241.37,4502.50,10.72 5197.78,4472.55" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402047415 402047416"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402047415 402047416"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402047415 402047416"/>
+        </lane>
+    </edge>
+    <edge id="402048867#1" from="cluster_2508090929_5179129473" to="5179129478" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5482.09,4474.88 5528.12,4477.34" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="402048867#2" from="5179129478" to="5345110852" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="402048867#3" from="5345110852" to="5179129483" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5638.52,4484.78 5685.59,4487.70,10.72 5730.38,4489.62,10.72 5776.11,4491.40" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="402048867#4" from="5179129483" to="6240866858" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5776.11,4491.40 6000.80,4496.38,10.72 6018.96,4496.80,10.72 6221.31,4501.28" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="402048867#7" from="6240866858" to="4044817218" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="402048867#8" from="4044817218" to="5179129484" name="打石二路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="402048867"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="402048867"/>
+        </lane>
+    </edge>
+    <edge id="529070115#0" from="5140241034" to="cluster_2366083153_5140241000" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4535.14,4581.97 4564.03,4582.52" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#1" from="cluster_2366083153_5140241000" to="cluster_5140241006_5140241020" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4564.03,4582.52 4619.66,4584.57,10.72 4667.89,4586.69,10.72 4719.18,4590.92,10.72 4786.69,4592.44,10.72 4798.77,4592.37,10.72 4812.27,4590.95,10.72 4826.12,4588.35,10.72 4839.20,4585.24,10.72 4852.10,4581.94,10.72 4865.71,4577.35,10.72 4882.67,4571.04" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#10" from="5345110835" to="cluster_2366083155_2366083174_5140241017_5140241018" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6389.28,4164.82 6398.76,4163.70,10.72 6408.95,4164.26,10.72 6418.36,4164.99,10.72 6433.05,4165.45" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#13" from="cluster_2366083155_2366083174_5140241017_5140241018" to="5140241022" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6457.31,4165.88 6490.95,4172.14" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#2" from="cluster_5140241006_5140241020" to="529070115#2-AddedOffRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4882.67,4571.04 4898.45,4564.75,10.72 4912.16,4557.86,10.72 4924.16,4551.13,10.72 4934.32,4545.00,10.72 4945.76,4537.17,10.72 4958.91,4527.64,10.72 4971.88,4516.54,10.72 4986.95,4503.43,10.72 5066.28,4424.98,10.72 5234.35,4260.71,10.72 5246.91,4249.14,10.72 5257.48,4240.03,10.72 5271.45,4229.86,10.72 5285.59,4220.13,10.72 5302.61,4209.58,10.72 5318.76,4201.28,10.72 5335.21,4193.79" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#2-AddedOffRampEdge" from="529070115#2-AddedOffRampNode" to="5179129455" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5334.54,4192.33 5338.43,4190.56,10.72 5356.50,4184.02,10.72 5373.13,4179.10,10.72 5389.77,4174.96,10.72 5410.25,4172.11,10.72 5432.05,4170.13" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#3" from="5179129455" to="cluster_2508090910_5140241014_5179129422_5345110196" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5432.19,4171.73 5464.39,4170.41,10.72 5478.85,4170.21" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#6" from="cluster_2508090910_5140241014_5179129422_5345110196" to="5179129454" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5492.55,4170.11 5538.61,4169.21" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#7" from="529070115#7-AddedOnRampNode" to="529070115#7-AddedOffRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5638.61,4169.07 5656.87,4169.04,10.72 6015.55,4166.88,10.72 6034.09,4166.32,10.72 6272.68,4164.76,10.72 6289.28,4164.74" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#7-AddedOffRampEdge" from="529070115#7-AddedOffRampNode" to="5345110835" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6289.27,4163.14 6348.19,4163.07,10.72 6389.28,4163.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070115#7-AddedOnRampEdge" from="5179129454" to="529070115#7-AddedOnRampNode" name="打石一路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5538.61,4167.61 5638.61,4167.47" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0" acceleration="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070115"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070115"/>
+        </lane>
+    </edge>
+    <edge id="529070132#0" from="5140241102" to="5140241110" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6455.99,5054.01 6458.33,5057.95,10.72 6465.35,5061.79,10.72 6601.85,5065.21,10.72 6646.71,5066.11,10.72 6651.95,5061.03,10.72 6653.50,4996.72,10.72 6651.38,4990.37,10.72 6648.68,4985.68,10.72 6643.33,4982.43,10.72 6621.90,4981.82,10.72 6597.23,4965.76" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070132"/>
+        </lane>
+    </edge>
+    <edge id="529070132#1" from="5140241110" to="5140241102" priority="4" type="highway.residential" numLanes="3" speed="13.89" shape="6597.23,4965.76 6567.58,4965.54,10.72 6561.79,4966.16,10.72 6555.19,4969.56,10.72 6533.53,4989.71,10.72 6525.78,4994.94,10.72 6516.98,4997.18,10.72 6471.87,4995.91,10.72 6465.33,4996.53,10.72 6459.50,4999.00,10.72 6456.49,5003.77,10.72 6455.99,5054.01" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070132"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070132"/>
+        </lane>
+    </edge>
+    <edge id="529070163#1" from="cluster_5140241325_5140241331" to="5140241330" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5306.99,4911.09 5265.70,4908.06" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="529070163#2" from="5140241330" to="1943410537" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="529070163#3" from="1943410537" to="1943410525" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5223.27,4905.15 5176.87,4904.41,10.72 5142.75,4900.03,10.72 5104.03,4887.08,10.72 5064.24,4867.58,10.72 5030.53,4842.18" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="529070163#4" from="1943410525" to="2508068065" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="5030.53,4842.18 5004.67,4817.85,10.72 4983.55,4795.61,10.72 4964.67,4770.06,10.72 4950.74,4746.42,10.72 4940.48,4725.16,10.72 4924.78,4684.24" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="529070163#5" from="2508068065" to="5140241024" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4924.78,4684.24 4903.22,4625.92,10.72 4898.47,4612.76" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="529070163#6" from="5140241024" to="cluster_5140241006_5140241020" name="创研路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="4898.47,4612.76 4886.08,4580.22" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="529070163"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="529070163"/>
+        </lane>
+    </edge>
+    <edge id="553781209#1" from="5345110852" to="2366083151" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="553781209"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="553781209"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="553781209"/>
+        </lane>
+    </edge>
+    <edge id="608477070#0" from="2508068052" to="2508068091" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="608477070"/>
+        </lane>
+    </edge>
+    <edge id="608477070#1" from="2508068091" to="2508068057" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="608477070"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="608477070"/>
+        </lane>
+    </edge>
+    <edge id="608477070#2" from="2508068057" to="2508068073" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" shape="4906.83,4980.56 4921.21,4983.80,10.72 4955.96,4985.10,10.72 4995.71,4986.59" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="608477070 479205857 243385774"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="608477070 479205857 243385774"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="608477070 479205857 243385774"/>
+        </lane>
+    </edge>
+    <edge id="666569425#0" from="6240866703" to="cluster_2366083155_2366083174_5140241017_5140241018" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6472.53,3667.14 6471.90,3685.72,10.72 6470.52,3732.58,10.72 6470.07,3747.55,10.72 6469.57,3764.48,10.72 6468.32,3807.31,10.72 6465.53,3904.61,10.72 6458.56,4127.65,10.72 6457.31,4165.88" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#10" from="3647240039" to="cluster_1943410595_1943410613_2364917727" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6423.78,5058.55 6422.45,5094.50" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#4" from="cluster_2366083155_2366083174_5140241017_5140241018" to="5179129484" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6457.18,4179.84 6443.63,4505.89" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#5" from="5179129484" to="2364917717" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#6" from="2364917717" to="2508090941" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#7" from="2508090941" to="2508090951" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#8" from="2508090951" to="666569425#8-AddedOffRampNode" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#8-AddedOffRampEdge" from="666569425#8-AddedOffRampNode" to="5140241091" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6429.06,4958.68 6426.33,5032.80" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569425#9" from="5140241091" to="3647240039" name="石鼓路" priority="6" type="highway.tertiary" numLanes="3" speed="22.22" shape="6426.33,5032.80 6425.38,5058.61" spreadType="center" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569425"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569425"/>
+        </lane>
+    </edge>
+    <edge id="666569439" from="6240866858" to="6240866859" priority="5" type="highway.unclassified" numLanes="3" speed="13.89" disallow="tram rail_urban rail rail_electric ship">
+        <lane index="0">
+            <param key="origId" value="666569439"/>
+        </lane>
+        <lane index="1">
+            <param key="origId" value="666569439"/>
+        </lane>
+        <lane index="2">
+            <param key="origId" value="666569439"/>
+        </lane>
+    </edge>
+</edges>
