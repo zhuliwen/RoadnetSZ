@@ -49,6 +49,14 @@ If you use Shenzhen Dataset in your work, please cite it as follows:
 	note = {Accessed: 2022-05-01},
 }
 
+@article{zhu2023metavim,
+  title={Metavim: Meta variationally intrinsic motivated reinforcement learning for decentralized traffic signal control},
+  author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Tian, Yonghong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2023},
+  publisher={IEEE}
+}
+
 @inproceedings{xu2021hierarchically,
   title={Hierarchically and cooperatively learning traffic signal control},
   author={Xu, Bingyu and Wang, Yaowei and Wang, Zhaozhi and Jia, Huizhu and Lu, Zongqing},
@@ -56,13 +64,6 @@ If you use Shenzhen Dataset in your work, please cite it as follows:
   volume={35},
   number={1},
   pages={669--677},
-  year={2021}
-}
-
-@article{zhu2021variationally,
-  title={Variationally and intrinsically motivated reinforcement learning for decentralized traffic signal control},
-  author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Wang, Xiangqian and Tian, Yonghong},
-  journal={arXiv preprint arXiv:2101.00746},
   year={2021}
 }
 
